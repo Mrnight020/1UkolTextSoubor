@@ -1,0 +1,11 @@
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\bin\Debug\Ukol1TextSoubor.exe.config
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\bin\Debug\Ukol1TextSoubor.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\bin\Debug\Ukol1TextSoubor.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\obj\Debug\Ukol1TextSoubor.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\obj\Debug\Ukol1TextSoubor.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\obj\Debug\Ukol1TextSoubor.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\obj\Debug\Ukol1TextSoubor.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\obj\Debug\Ukol1TextSoubor.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\obj\Debug\Ukol1TextSoubor.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\obj\Debug\Ukol1TextSoubor.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\TEXTOVE SOUBORY\Ukol1TextSoubor\Ukol1TextSoubor\obj\Debug\Ukol1TextSoubor.Form1.resources
